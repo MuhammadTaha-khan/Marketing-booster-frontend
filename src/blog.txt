@@ -1,0 +1,81 @@
+</Container>
+            <div className="container">
+                <div className="row">
+                    <h1 className="title">TheGem Wordpress Theme for Blogger</h1>
+                    <p className="subtitle">Explore the most amazing WordPress theme for bloggers</p>
+                    <div className="timeline">
+                        <div className="timeline-item">
+                            <div className="timeline-content">
+                                <div className="card-wrapper">
+                                    <div className="card">
+                                        <div className="card-content">
+                                            <img src={blog01} alt="Blog post" width={350} height={300} />
+                                            <h2>Web Designing</h2>
+                                            <p>Description of the blog post goes here...</p>
+                                        </div>
+                                        <div className="card-back">
+                                            <h2>Web Designing Back</h2>
+                                            <p>More details about web designing...</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="timeline-item">
+                            <div className="timeline-content">
+                                <div className="card-wrapper">
+                                    <div className="card">
+                                        <div className="card-content">
+                                            <img src={blog02} alt="Blog post" />
+                                            <h2>Digital Marketing</h2>
+                                            <p>Description of another blog post goes here...</p>
+                                        </div>
+                                        <div className="card-back">
+                                            <h2>Digital Marketing Back</h2>
+                                            <p>More details about digital marketing...</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="timeline-item">
+                            <div className="timeline-content">
+                                <div className="card-wrapper">
+                                    <div className="card">
+                                        <div className="card-content">
+                                            <img src={blog04} alt="Blog post" />
+                                            <h2>Graphic Designing</h2>
+                                            <p>Description of the blog post goes here...</p>
+                                        </div>
+                                        <div className="card-back">
+                                            <h2>Graphic Designing Back</h2>
+                                            <p>More details about graphic designing...</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="timeline-item">
+                            <div className="timeline-content">
+                                <div className="card-wrapper">
+                                    <div className="card">
+                                        <div className="card-content">
+                                            <img src={blog06} alt="Blog post" />
+                                            <h2>Web Development</h2>
+                                            <p>Description of another blog post goes here...</p>
+                                        </div>
+                                        <div className="card-back">
+                                            <h2>Web Development Back</h2>
+                                            <p>More details about web development...</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {/* Add more timeline items as needed */}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
